@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## About ISO 15118-1:2013 - Road vehicles - Vehicle to grid communication interface - Part 1: General information and use-case definition
 
-You can use the [editor on GitHub](https://github.com/JSCS2020/OpenSECC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ISO 15118 specifies the communication between Electric Vehicles (EV), including Battery Electric Vehicles and Plug-In Hybrid Electric Vehicles, and the Electric Vehicle Supply Equipment (EVSE). 
+As the communication parts of this generic equipment are the Electric Vehicle Communication Controller (EVCC) and the Supply Equipment Communication Controller (SECC), ISO 15118 describes the communication between these components. Although ISO 15118 is oriented to the charging of electric road vehicles, it is open for other vehicles as well. ISO 15118-1:2013 specifies terms and definitions, general requirements and use cases as the basis for the other parts of ISO 15118. It provides a general overview and a common understanding of aspects influencing the charge process, payment and load levelling. ISO 15118 does not specify the vehicle internal communication between battery and charging equipment and the communication of the SECC to other actors and equipment (beside some dedicated message elements related to the charging). All connections beyond the SECC, and the method of message exchanging are considered to be out of the scope as specific use cases.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JSCS2020/OpenSECC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
