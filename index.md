@@ -6,5 +6,8 @@ As the communication parts of this generic equipment are the Electric Vehicle Co
 
 It provides a general overview and a common understanding of aspects influencing the charge process, payment and load levelling. ISO 15118 does not specify the vehicle internal communication between battery and charging equipment and the communication of the SECC to other actors and equipment (beside some dedicated message elements related to the charging). All connections beyond the SECC, and the method of message exchanging are considered to be out of the scope as specific use cases.
 
-## Software Architecture of EV Chargers
+## Software Architecture of EV Charger
 ![](/arch.png)
+
+## System Architecture of EV Charger
+![](/EVSE_Arch.png)
